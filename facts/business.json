@@ -1,0 +1,10 @@
+{
+  "customerNum": 200,
+  "paidCustomerNum": 20,
+  "doctorNum": 30,
+  "activeDoctorNum": 5,
+  "connectedOrderNum": 100,
+  "customerRecharge": 3000,
+  "doctorIncome": 4000
+}
+
